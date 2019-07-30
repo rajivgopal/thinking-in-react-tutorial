@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thinking-in-react-tutorial/static/css/main.b3f8a106.chunk.css",
+    "main.js": "/thinking-in-react-tutorial/static/js/main.1ab8bd9b.chunk.js",
+    "main.js.map": "/thinking-in-react-tutorial/static/js/main.1ab8bd9b.chunk.js.map",
+    "runtime~main.js": "/thinking-in-react-tutorial/static/js/runtime~main.34ea6b79.js",
+    "runtime~main.js.map": "/thinking-in-react-tutorial/static/js/runtime~main.34ea6b79.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/thinking-in-react-tutorial/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/thinking-in-react-tutorial/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/thinking-in-react-tutorial/index.html",
+    "precache-manifest.801c8433d21e53708b7fccb7ebf029ea.js": "/thinking-in-react-tutorial/precache-manifest.801c8433d21e53708b7fccb7ebf029ea.js",
+    "service-worker.js": "/thinking-in-react-tutorial/service-worker.js",
+    "static/css/main.b3f8a106.chunk.css.map": "/thinking-in-react-tutorial/static/css/main.b3f8a106.chunk.css.map"
+  }
+}
